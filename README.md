@@ -8,7 +8,7 @@
 
 点击 https://best-jinbitao.github.io 查看详细文章
 
-TODO分享parseInt的用法，分享file、blob、arrabuffer对象的区别
+TODO分享file、blob、arrabuffer对象的区别
 
 <!---
 best-jinbitao/best-jinbitao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
