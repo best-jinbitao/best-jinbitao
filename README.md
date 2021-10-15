@@ -4,7 +4,7 @@
 
 希望能一起进步啊。
 
-点击 https://best-jinbitao.github.io/home/ 查看前端知识总览
+点击 https://best-jinbitao.github.io/tree/ 查看前端知识总览
 
 点击 https://best-jinbitao.github.io 查看详细文章
 
